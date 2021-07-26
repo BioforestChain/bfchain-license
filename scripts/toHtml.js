@@ -40,6 +40,7 @@ for (const basename of fs.readdirSync(SOURCE_DIRNAME)) {
       }
       body {
         max-width: 800px;
+        max-width: min(800px, calc(100vw - 2em));
         margin: 0 auto;
         line-height: 2em;
       }
