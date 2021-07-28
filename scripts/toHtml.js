@@ -59,7 +59,8 @@ for (const basename of fs.readdirSync(SOURCE_DIRNAME)) {
   </body>
   </html>`);
   {
-    const { document } = dom.window;
+    const { window } = dom;
+    const { document } = window;
     /**
      * @type {typeof document.querySelector}
      */
@@ -110,7 +111,9 @@ for (const basename of fs.readdirSync(SOURCE_DIRNAME)) {
       }
     };
     for (const [index, rootOlEle] of $$("body>ol").entries()) {
-      setLiId(rootOlEle, `s${index + 1}`);
+      if (rootOlEle instanceof window.HTMLOListElement) {
+        setLiId(rootOlEle, `s${index + 1}`);
+      }
     }
   }
 
