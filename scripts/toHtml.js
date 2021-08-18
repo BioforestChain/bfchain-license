@@ -52,6 +52,22 @@ for (const basename of fs.readdirSync(SOURCE_DIRNAME)) {
       p {
         text-indent: 2em;
       }
+      u {
+        text-decoration: unset;
+      }
+      html[lang="en-US"] {
+        text-align: justify;
+      }
+      html[lang="en-US"] #s5 + ol strong {
+        text-transform: uppercase;
+        font-weight: normal;
+      }
+      html[lang="en-US"] #s5-1::marker {
+        text-transform: uppercase;
+      }
+      html[lang="en-US"] #s5-2::marker {
+        text-transform: uppercase;
+      }
       </style>
   </head>
   <body>

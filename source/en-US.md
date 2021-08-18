@@ -5,91 +5,93 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 ## Section 1 – Definitions.
 
 1. **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
-1. **Adapter’s License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this License.
-1. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
-1. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
-1. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
-f. Licensed Material means the artistic or literary work, database, or other material to which the Licensor applied this License.
-1. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
-1. **Licensor** means the individual(s) or entity(ies) granting rights under this License.
-1. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
-1. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-1. **You** means the individual or entity exercising the Licensed Rights under this License. Your has a corresponding meaning.
-1. **Non-Commercial** means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is Non-Commercial provided there is no payment of monetary compensation in connection with the exchange.
+2. **Adapter’s License** means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this License.
+3. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this License, the rights specified in [Section 2(b)(1)-(2)](#s2-2) are not Copyright and Similar Rights.
+4. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+5. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+6. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this License.
+7. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+8. **Licensor** means the individual(s) or entity(ies) granting rights under this License.
+9. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+10. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+11. **You** means the individual or entity exercising the Licensed Rights under this License. Your has a corresponding meaning.
+12. **Non-Commercial** means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is Non-Commercial provided there is no payment of monetary compensation in connection with the exchange.
 
-## 第二条 授权范围
+## Section 2 – Scope.
 
-1. **授权**
-   1. 根据本软件许可协议的条款，许可人授予您在全球范围内，免费的、不可再许可、非独占、不可撤销的许可，以对授权作品(Licensed Material)行使以下“协议所授予的权利”：
-      1. 复制和分享授权作品(Licensed Material)的全部或部分；以及
-      1. 非大型商业性的创作、复制和分享演绎作品(Adapted Material)。
-   1. <u>例外和限制</u> 为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本软件许可协议将不适用，您也无须遵守本软件许可协议之条款。
-   1. <u>期限</u> 本软件许可协议的期限规定于[第六条 a 款](#s6-1)。
-   1. <u>媒介和形式；允许的技术修改</u> 许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本软件许可协议之目的， 基于[第二条 a 款第(4)项](#s2-1-4) 进行的技术修改不构成演绎作品(Adapted Material)。
-   1. <u>后续接受者</u>
-      1. <u>来自许可人的要约——授权作品(Licensed Material)</u> 本授权作品(Licensed Material)的每一个后续接受者都自动取得许可人的要约，以按照本软件许可协议的条款行使协议授予的权利。
-      1. <u>禁止下游限制</u> 若会限制授权作品(Licensed Material)后续接受者行使本协议所授予的权利，则您不得对授权作品(Licensed Material)提出或增加任何额外的或不同的条款，或使用任何有效技术措施。
-   1. <u>并非背书</u> 本软件许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人或 [第三条 a 款第(1)项(A)目(i)](#s3-1-1-1-1)所规定要求提供署名的权利人相关联，或得到其赞助、同意或被授予正式地位。
-1. **其他权利**
-   1. 依据本软件许可协议，著作人身权，例如保护作品完整权、形象权、隐私权或其他类似的人格权利，不在许可范围内。但是，在条件允许的情况下，许可人可以在必要范围内放弃和/或同意不主张其权利，以便您行使本协议所授予的权利。
-   1. 本软件许可协议不适用于任何专利权或商标权许可。
-   1. 在自愿的或可放弃的法定或强制许可机制下，许可人在最大可能范围内放弃对您因行使本协议所授予的权利而产生的使用费的权利，不论是直接收取或通过集体管理组织收取。在其他任何情况下（包括授权作品(Licensed Material)被大规模商业性使用的情形），许可人明确保留收取使用费的任何权利。
+1. **License grant.**
+   1. Subject to the terms and conditions of this License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+      1. reproduce and Share the Licensed Material, in whole or in part; and
+      1. produce and reproduce, but not Share, Adapted Material for Non-Commercial purposes only.
+   1. <u>Exceptions and limitations</u>.
+      1. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this License does not apply, and You do not need to comply with its terms and conditions.
+      1. If you need to acquire a commercial license, please get in touch by email at license@bfchain.org with your commercial uses and personal or organizational information, we’ll be happy to clarify things for you and work with you to accommodate your requirements.
+   1. <u>Term</u>. The term of this License is specified in [Section 6(a)](#s6-1).
+   1. <u>Media and formats; technical modifications allowed</u>. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this License, simply making modifications authorized by this [Section 2(a)(4)](#s2-1-4) never produces Adapted Material.
+   1. <u>Downstream recipients</u>.
+      1. <u>Offer from the Licensor – Licensed Material</u>. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this License.
+      1. <u>No downstream restrictions</u>. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+   1. <u>No endorsement</u>. Nothing in this License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in [Section 3(a)(1)(A)(i)](#s3-1-1-1-1).
+1. **Other rights.**
+   1. Moral rights, such as the right of integrity, are not licensed under this License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+   1. Patent and trademark rights are not licensed under this License.
+   1. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights within the conditions set forth in [Section 2(a)(1)](#s2-1-1), whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for Non-Commercial purposes. Please get in touch by email at license@bfchain.org with your commercial uses and personal or organizational information, we’ll be happy to clarify things for you and work with you to accommodate your requirements.
 
-## 第三条 授权条件
+## Section 3 - License Conditions.
 
-您行使被许可的权利明确受以下条件限制：
+Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-1. 署名
-   1. 若您分享本授权作品(Licensed Material)（包含修改格式），您必须：
-      1. 保留如下标识（如果许可人提供授权作品(Licensed Material)的同时提供如下标识）：
-         1. 以许可人要求的任何合理方式，标识本授权作品(Licensed Material)创作者和其他被指定署名的人的身份（包括指定的笔名）；
-         1. 著作权声明；
-         1. 有关本软件许可协议的声明；
-         1. 有关免责的声明；
-         1. 在合理可行情况下，本授权作品(Licensed Material)的网址(URI)或超链接；
-      1. 表明您是否修改本授权作品(Licensed Material)及保留任何先前修改的标记；及
-      1. 表明授权作品(Licensed Material)依据本软件许可协议授权，并提供本软件许可协议全文，或者本软件许可协议的网址(URI)或超链接。
-   1. 依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足[第三条 a 款第(1)项](#s3-1-1)的条件 。 例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。
-   1. 如果许可人要求，您必须在合理可行的范围内移除[第三条 a 款第(1)项(A)目](#s3-1-1-1) 所要求的任何信息。
-   1. 如果您分享您创作的演绎作品（Adapted Material），您适用的“演绎作者的许可”协议，不得使演绎作品（Adapted Material）的接收者无法遵守本软件许可协议。
+1. Attribution.
+   1. If You Share the Licensed Material (including in modified form), You must:
+      1. retain the following if it is supplied by the Licensor with the Licensed Material:
+         1. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         1. a copyright notice;
+         1. a notice that refers to this License;
+         1. a notice that refers to the disclaimer of warranties;
+         1. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+      1. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+      1. indicate the Licensed Material is licensed under this License, and include the text of, or the URI or hyperlink to, this License.
+   1. You may satisfy the conditions in [Section 3(a)(1)](#s3-1-1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+   1. If requested by the Licensor, You must remove any of the information required by [Section 3(a)(1)(A)](#s3-1-1-1) to the extent reasonably practicable.
+   1. If You Share Adapted Material You produce, the Adapter’s License You apply must not prevent recipients of the Adapted Material from complying with this License.
 
-## 第四条 数据库特别权利
+## Section 4 - Sui Generis Database Rights.
 
-当协议所授予的权利包含数据库特别权利，而该数据库特别权利适用于您对授权作品(Licensed Material)的使用时：
+Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
-1. 为避免疑义， [第二条 a 款第(1) 项](#s2-1-1)授权您，摘录、再利用、复制和分享全部或绝大部分数据库资料；
-1. 如果您将数据库资料的全部或绝大部分纳入您享有数据库特别权利的另一数据库，则您享有数据库特别权利的该数据库（而非其中的单个内容）视为演绎作品(Adapted Material)；
-1. 如果您分享全部或大部分该数据库的资料，您必须遵守 [第三条 a 款](#s3-1) 规定的条件。
+1. for the avoidance of doubt, [Section 2(a)(1)](#s2-1-1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+1. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material;
+1. You must comply with the conditions in [Section 3(a)](#s3-1) if You Share all or a substantial portion of the contents of the database.
 
-为避免疑义，当协议所授予的权利包含其他著作权与类似权利时，[第四条](#s4)补充且不取代本软件许可协议所规定的您的义务。
+For the avoidance of doubt, this [Section 4](#s4) supplements and does not replace Your obligations under this License where the Licensed Rights include other Copyright and Similar Rights.
 
-## 第五条 免责声明及责任限制条款
+## Section 5 - Disclaimer of Warranties and Limitation of Liability.
 
-1. **除非许可人另有保证，否则在最大可能范围内，许可人按其现状和现有之基础提供授权作品(Licensed Material)，且没有就授权作品(Licensed Material)做出任何形式的陈述或保证：无论明示、默示、法定或其他形式，包括但不限于任何有关本授权作品(Licensed Material)的权属保证、可交易性、适于特定目的、未侵害他人权利、没有潜在或其他瑕疵、精确性或是否有错误，不管是否已知或可发现。当免责声明全部或部分不被允许时，此免责声明可能不适用于您。**
-1. **在最大可能范围内， 对于任何因本软件许可协议或使用授权作品(Licensed Material)引起的直接的、特殊的、间接的、附随的、连带的、惩罚性的、警告性的，或其他的损失、成本、费用或损害，许可人不对您负任何法律上或其他的责任（包括但不限于过失责任）。当责任限制部分或全部不被允许时，该限制不适用于您。**
-1. 前述免责及责任限制声明，应尽可能以最接近于完全排除全部责任的方式解释。
+1. **Unless otherwise separately undertaken by the licensor, to the extent possible, the licensor offers the licensed material as-is and as-available, and makes no representations or warranties of any kind concerning the licensed material, whether express, implied, statutory, or other. this includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to you.**
+1. **To the extent possible, in no event will the licensor be liable to you on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this license or use of the licensed material, even if the licensor has been advised of the possibility of such losses, costs, expenses, or damages. where a limitation of liability is not allowed in full or in part, this limitation may not apply to you.**
+1. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
-## 第六条 期限与终止
+## Section 6 - Term and Termination.
 
-1. 本软件许可协议在著作权与类似权利存续期间内有效。然而，如果您没有遵守此公共许可协议，则您依据此公共许可协议享有的权利自动终止。
-1. 当您使用本授权作品(Licensed Material)的权利根据[第六条 a 款](#s6-1)终止时，您的权利在下述情况下恢复：
+1. This License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this License, then Your rights under this License terminate automatically.
+1. Where Your right to use the Licensed Material has terminated under [Section 6(a)](#s6), it reinstates:
 
-   1. 自违反协议的行为纠正之日起自动恢复，但须在您发现违反情形后 30 日内纠正；或
-   1. 根据许可人明示恢复权利的意思表达。
+   1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+   1. upon express reinstatement by the Licensor.
 
-   为避免疑义，本软件许可协议[第六条 b 款](#s6-2) 不影响许可人就您违反本软件许可协议的行为寻求法律救济。
+   For the avoidance of doubt, this [Section 6(b)](#s6-2) does not affect any right the Licensor may have to seek remedies for Your violations of this License.
 
-1. 为避免疑义，许可人也可在任何时间，以另外的条款或条件提供本授权作品(Licensed Material)，或者停止传播本授权作品(Licensed Material)；然而，许可人此种行为不会终止本软件许可协议。
-1. 本协议[第一](#s1)、[五](#s5)、[六](#s6)、[七](#s7)及第[八](#s8)条，不因本软件许可协议终止而失效。
+1. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this License.
+1. [Sections 1](#s1), [5](#s5), [6](#s6), [7](#s7), and [8](#s8) survive termination of this License.
 
-## 第七条 其他条款和条件
+## Section 7 - Other Terms and Conditions.
 
-1. 除非明示同意，否则许可人不受您表达的任何附加或不同条款或条件约束。
-1. 本软件许可协议未提及的关于授权作品(Licensed Material)之任何安排、共识或协议，不属于且独立于本软件许可协议的条款及条件。
+1. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+1. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this License.
 
-## 第八条 解释
+## Section 8 – Interpretation.
 
-1. 为避免疑义，本许可协议不会也不应被解释为减少、限制、约束或施加条件于无需本软件许可协议授权即可依法行使的对授权作品(Licensed Material)的任何使用。
-1. 在最大可能范围内，如果本软件许可协议的任何条款被视为无法执行，该条款在必要的最小限度内，自动调整至可以执行。如果该条款不能被调整，其应自本软件许可协议中排除适用，不影响其余条款的效力。
-1. 除非许可人明示同意，本软件许可协议的任何条款或条件均不得放弃。
-1. 本软件许可协议条款不构成、也不得被解释为限制或者放弃适用于许可人或您的特权或豁免，包括豁免于任何司法管辖区或行政机构的法律程序。
+1. For the avoidance of doubt, this License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this License.
+1. To the extent possible, if any provision of this License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this License without affecting the enforceability of the remaining terms and conditions.
+1. No term or condition of this License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+1. Nothing in this License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
