@@ -112,23 +112,25 @@ for (const basename of fs.readdirSync(SOURCE_DIRNAME)) {
      * @param {string} prefix
      */
     const setLiId = (olEle, prefix) => {
-      for (const [i, liEle] of olEle
+      let i = 1;
+      for (const [_, liEle] of olEle
         .querySelectorAll(":scope > li")
         .entries()) {
         /// jsdom bug
         if (liEle.parentElement !== olEle) {
           continue;
         }
-        liEle.id = `${prefix}-${i + 1}`;
+        liEle.id = `${prefix}-${i++}`;
         const subOlEle = liEle.querySelector("ol");
         if (subOlEle) {
           setLiId(subOlEle, liEle.id);
         }
       }
     };
-    for (const [index, rootOlEle] of $$("body>ol").entries()) {
+    let index = 1;
+    for (const [_, rootOlEle] of $$("body>ol").entries()) {
       if (rootOlEle instanceof window.HTMLOListElement) {
-        setLiId(rootOlEle, `s${index + 1}`);
+        setLiId(rootOlEle, `s${index++}`);
       }
     }
   }
